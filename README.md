@@ -3,7 +3,7 @@
 # CYBERMEDIC
 
 ### Security Engineer // Threat Hunter // Digital Forensics
-### Security vendors analysis 0/92 | No security vendors flagged this URL as malicious
+### Security vendors analysis 0/92 | No security vendors flagged this URL as malicious 😉
 
 `MICROSOFT DEFENDER XDR`   `MDE`   `ELASTIC SECURITY`   `KQL`   `ES|QL`
 
