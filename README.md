@@ -14,8 +14,8 @@
 <a href="https://github.com/CYBERMED1C">
   <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
 <br><br>
-<div align="center">
 
 <img src="https://img.shields.io/badge/Microsoft_Defender_XDR-0D1117?style=for-the-badge&logo=microsoft&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-0D1117?style=for-the-badge&logo=microsoft&logoColor=white">
@@ -122,5 +122,9 @@ Investigation-focused resources for digital forensic analysis and artifact disco
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=CYBERMED1C&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CYBERMED1C&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true">
 
 </div>
