@@ -34,7 +34,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### MDE Threat Hunting Queries
+### MDE Threat Hunting
 
 [**MDE-Threat-Hunting-Queries**](https://github.com/CYBERMED1C/MDE-Threat-Hunting-Queries)
 
