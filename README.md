@@ -14,10 +14,7 @@
 <a href="https://github.com/CYBERMED1C">
   <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
 <br><br>
-
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Microsoft_Defender_XDR-0D1117?style=for-the-badge&logo=microsoft&logoColor=white">
