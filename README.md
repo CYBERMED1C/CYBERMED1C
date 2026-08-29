@@ -30,9 +30,7 @@
 <img src="https://img.shields.io/badge/MITRE_ATT%26CK-0D1117?style=flat-square">
 
 </div>
-
 ---
-
 <table>
 <tr>
 <td width="50%" valign="top">
