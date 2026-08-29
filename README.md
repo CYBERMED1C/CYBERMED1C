@@ -17,11 +17,6 @@
 
 <br><br>
 
-</div>
-
----
-
-## PRIMARY STACK
 
 <div align="center">
 
