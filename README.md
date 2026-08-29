@@ -46,9 +46,9 @@ Microsoft Defender XDR and MDE hunting queries for endpoint investigation, behav
 
 <td width="50%" valign="top">
 
-### Elastic Security Engineering
+### Elastic Threat Hunting
 
-[**Elastic-Security-Engineering**](https://github.com/CYBERMED1C/Elastic-Security-Engineering)
+[**Elastic-Threat-Hunting**](https://github.com/CYBERMED1C/Elastic-Security-Engineering/tree/main/Elastic-Security-Threat-Hunting-Queries)
 
 Threat hunting and security engineering content built around Elastic Security.
 
