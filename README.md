@@ -17,8 +17,6 @@
 
 <br><br>
 
-Security engineering focused on threat hunting, detection engineering, digital forensics, incident response, and adversary activity across enterprise environments.
-
 </div>
 
 ---
