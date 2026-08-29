@@ -3,6 +3,7 @@
 # CYBERMEDIC
 
 ### Security Engineer // Threat Hunter // Digital Forensics
+### https://github.com/CYBERMED1C : Security vendors analysis 0/92 
 
 `MICROSOFT DEFENDER XDR`   `MDE`   `ELASTIC SECURITY`   `KQL`   `ES|QL`
 
