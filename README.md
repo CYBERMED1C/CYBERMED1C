@@ -2,58 +2,111 @@
 
 # CYBERMEDIC
 
-### SECURITY ENGINEERING // THREAT HUNTING // DIGITAL FORENSICS
+### Security Engineer // Threat Hunter // Digital Forensics
 
-`MICROSOFT DEFENDER XDR`  `MDE`  `ELASTIC SECURITY`  `KQL`  `ES|QL`  `DFIR`
+`MICROSOFT DEFENDER XDR`   `MDE`   `ELASTIC SECURITY`   `KQL`   `ES|QL`
 
-[GitHub](https://github.com/CYBERMED1C) • [LinkedIn](https://www.linkedin.com/in/robert-boettger)
+<br>
+
+<a href="YOUR-SITE-URL">
+  <img src="https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/robert-boettger">
+  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/CYBERMED1C">
+  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+Security engineering focused on threat hunting, detection engineering, digital forensics, incident response, and adversary activity across enterprise environments.
 
 </div>
 
 ---
 
+## SECURITY
+
 ```text
-> SYSTEM PROFILE
-> ----------------------------------------------------------------
-> OPERATOR      : CYBERMEDIC
-> DISCIPLINE    : SECURITY ENGINEERING
-> SPECIALTY     : THREAT HUNTING // DIGITAL FORENSICS
-> TELEMETRY     : MDE // MICROSOFT DEFENDER XDR // ELASTIC
-> QUERY         : KQL // ES|QL
-> OBJECTIVE     : HUNT // DETECT // INVESTIGATE // RESPOND
-> STATUS        : ACTIVE
+THREAT HUNTING          MICROSOFT DEFENDER XDR
+DETECTION ENGINEERING   MICROSOFT DEFENDER FOR ENDPOINT
+DIGITAL FORENSICS       ELASTIC SECURITY
+INCIDENT RESPONSE       KQL
+NETWORK SECURITY        ES|QL
+THREAT INTELLIGENCE     MITRE ATT&CK
 ```
 
-## SECURITY OPERATIONS
+---
+
+## PRIMARY STACK
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microsoft_Defender_XDR-0D1117?style=flat-square&logo=microsoft&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-0D1117?style=flat-square&logo=microsoft&logoColor=white">
+<img src="https://img.shields.io/badge/Elastic_Security-0D1117?style=flat-square&logo=elastic&logoColor=white">
+<img src="https://img.shields.io/badge/KQL-0D1117?style=flat-square">
+<img src="https://img.shields.io/badge/ES%7CQL-0D1117?style=flat-square&logo=elastic&logoColor=white">
+<img src="https://img.shields.io/badge/PowerShell-0D1117?style=flat-square&logo=powershell&logoColor=white">
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-0D1117?style=flat-square">
+
+</div>
+
+---
+
+## SELECTED WORK
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### THREAT HUNTING
+### MDE Threat Hunting
 
-* Hypothesis-driven hunting
-* Behavioral detection
-* Endpoint telemetry analysis
-* IOC / IOA investigation
-* Insider threat hunting
-* Threat intelligence correlation
-* MITRE ATT&CK mapping
-* Anomaly investigation
+[**MDE-Threat-Hunting-Queries**](https://github.com/CYBERMED1C/MDE-Threat-Hunting-Queries)
+
+Microsoft Defender XDR / MDE hunting queries built for endpoint investigation, behavioral detection, and threat discovery.
+
+`MDE` `KQL` `ADVANCED HUNTING`
 
 </td>
-<td width="50%">
 
-### DIGITAL FORENSICS
+<td width="50%" valign="top">
 
-* Endpoint investigations
-* Timeline reconstruction
-* Process analysis
-* File system artifacts
-* Network activity analysis
-* Evidence preservation
-* Incident scoping
-* Root cause analysis
+### Elastic Security Engineering
+
+[**Elastic-Security-Engineering**](https://github.com/CYBERMED1C/Elastic-Security-Engineering)
+
+Threat hunting and security engineering content built around Elastic Security.
+
+`ELASTIC` `ES|QL` `THREAT HUNTING`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Elastic Detection Rules
+
+[**Elastic-Rules**](https://github.com/CYBERMED1C/Elastic-Rules)
+
+Detection logic and security rules designed for Elastic environments.
+
+`DETECTION ENGINEERING` `ELASTIC`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Digital Forensics
+
+[**Digital_Forensics_Wordlists**](https://github.com/CYBERMED1C/Digital_Forensics_Wordlists)
+
+Investigation-focused resources for digital forensic analysis and artifact discovery.
+
+`DFIR` `FORENSICS` `INVESTIGATION`
 
 </td>
 </tr>
@@ -61,155 +114,63 @@
 
 ---
 
-## PRIMARY PLATFORMS
+## MDE
 
-<table>
-<tr>
-<td align="center" width="50%">
+```text
+DeviceProcessEvents
+DeviceNetworkEvents
+DeviceFileEvents
+DeviceRegistryEvents
+DeviceLogonEvents
+DeviceEvents
+EmailEvents
+IdentityLogonEvents
+CloudAppEvents
+```
 
-### MICROSOFT DEFENDER XDR
+Primary focus:
 
-Advanced Hunting
-Microsoft Defender for Endpoint
-Endpoint Telemetry
-Incident Investigation
-Detection Engineering
-
-`DeviceProcessEvents`
-
-`DeviceNetworkEvents`
-
-`DeviceFileEvents`
-
-`DeviceRegistryEvents`
-
-`DeviceLogonEvents`
-
-</td>
-
-<td align="center" width="50%">
-
-### ELASTIC SECURITY
-
-Threat Hunting
-Security Analytics
-Detection Engineering
-Endpoint Investigation
-Telemetry Correlation
-
-`FROM`
-
-`WHERE`
-
-`STATS`
-
-`EVAL`
-
-`KEEP`
-
-</td>
-</tr>
-</table>
+`ADVANCED HUNTING` `ENDPOINT TELEMETRY` `BEHAVIORAL DETECTION` `INCIDENT INVESTIGATION`
 
 ---
 
-## QUERY LANGUAGES
+## ELASTIC
+
+```text
+FROM
+WHERE
+EVAL
+STATS
+KEEP
+SORT
+LIMIT
+DISSECT
+GROK
+```
+
+Primary focus:
+
+`ES|QL` `THREAT HUNTING` `DETECTION ENGINEERING` `SECURITY ANALYTICS`
+
+---
+
+## GITHUB
 
 <div align="center">
 
-![KQL](https://img.shields.io/badge/KQL-Microsoft_Defender-111111?style=for-the-badge\&logo=microsoft\&logoColor=white)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CYBERMED1C&show_icons=true&hide_border=true&hide_rank=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
 
-![ESQL](https://img.shields.io/badge/ES%7CQL-Elastic_Security-111111?style=for-the-badge\&logo=elastic\&logoColor=white)
-
-![PowerShell](https://img.shields.io/badge/PowerShell-Automation-111111?style=for-the-badge\&logo=powershell\&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-Security_Tooling-111111?style=for-the-badge\&logo=python\&logoColor=white)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBERMED1C&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9" />
 
 </div>
 
 ---
 
-## HUNT PROCESS
-
-```text
-THREAT INTELLIGENCE
-        |
-        v
-HUNT HYPOTHESIS
-        |
-        v
-IDENTIFY TELEMETRY
-        |
-        +--------------------+
-        |                    |
-        v                    v
-       MDE                 ELASTIC
-       KQL                 ES|QL
-        |                    |
-        +---------+----------+
-                  |
-                  v
-          ANALYZE BEHAVIOR
-                  |
-                  v
-          VALIDATE ACTIVITY
-                  |
-                  v
-           MITRE ATT&CK
-                  |
-                  v
-         BUILD DETECTION
-                  |
-                  v
-       DOCUMENT FINDINGS
-```
-
----
-
-## SECURITY STACK
-
-```text
-DEFENSIVE SECURITY
-├── Threat Hunting
-├── Detection Engineering
-├── Digital Forensics
-├── Incident Response
-├── Network Security
-├── Threat Intelligence
-└── Insider Threat Detection
-
-MICROSOFT SECURITY
-├── Microsoft Defender XDR
-├── Microsoft Defender for Endpoint
-├── Advanced Hunting
-├── KQL
-└── Endpoint Telemetry
-
-ELASTIC SECURITY
-├── Threat Hunting
-├── ES|QL
-├── Security Analytics
-├── Detection Rules
-└── Endpoint Telemetry
-
-DFIR
-├── Endpoint Analysis
-├── Timeline Analysis
-├── Process Analysis
-├── File Analysis
-├── Network Analysis
-└── Evidence Preservation
-```
-
----
-
-## CODE // QUERY ACTIVITY
+## LANGUAGES
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBERMED1C&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CYBERMED1C&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff&hide_rank=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBERMED1C&layout=donut&langs_count=8&hide_border=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9">
 
 </div>
 
@@ -219,40 +180,23 @@ DFIR
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=CYBERMED1C&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=CYBERMED1C&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9">
 
 </div>
 
 ---
 
-## CONTRIBUTION GRID
+## CONTRIBUTIONS
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CYBERMED1C/CYBERMED1C/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CYBERMED1C/CYBERMED1C/output/github-contribution-grid-snake.svg">
-  <img alt="CYBERMEDIC contribution activity" src="https://raw.githubusercontent.com/CYBERMED1C/CYBERMED1C/output/github-contribution-grid-snake-dark.svg">
+  <img alt="CYBERMEDIC contribution activity" src="https://raw.githubusercontent.com/CYBERMED1C/CYBERMED1C/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
-
----
-
-## CURRENT DEVELOPMENT
-
-```text
-[01] Microsoft Defender XDR Advanced Hunting
-[02] Microsoft Defender for Endpoint Telemetry
-[03] Elastic Security Threat Hunting
-[04] KQL Detection Engineering
-[05] ES|QL Detection Engineering
-[06] Insider Threat Detection
-[07] Behavioral Analytics
-[08] Digital Forensics
-[09] Threat Intelligence
-[10] MITRE ATT&CK Detection Mapping
-```
 
 ---
 
@@ -260,10 +204,12 @@ DFIR
 
 ### CYBERMEDIC
 
-`HUNT THE SIGNAL // VERIFY THE THREAT // PRESERVE THE EVIDENCE`
+`SECURITY ENGINEERING` // `THREAT HUNTING` // `DIGITAL FORENSICS`
 
-[github.com/CYBERMED1C](https://github.com/CYBERMED1C)
+<br>
 
-[linkedin.com/in/robert-boettger](https://www.linkedin.com/in/robert-boettger)
+[WEBSITE](YOUR-SITE-URL)    //   
+[LINKEDIN](https://www.linkedin.com/in/robert-boettger)    //   
+[GITHUB](https://github.com/CYBERMED1C)
 
 </div>
