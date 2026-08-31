@@ -62,7 +62,7 @@ Threat hunting and security engineering content built around Elastic Security.
 
 ### Elastic Detection Rules
 
-[**Elastic-Rules**](https://github.com/CYBERMED1C/Elastic-Rules)
+[**Elastic-Rules**](https://github.com/CYBERMED1C/Elastic-Security-Engineering/tree/main/Elastic-Security-Detection-Rules)
 
 Detection logic and security rules designed for Elastic environments.
 
