@@ -38,7 +38,7 @@
 
 [**Daily-Threat-Intel**](https://github.com/CYBERMED1C/Daily-Threat-Intel)
 
-Daily IOCs from OSINT reports. Fully automated. Includes KQL and ESQL target threat hunting
+Daily IOCs from OSINT reports. Includes KQL and ESQL target threat hunting
 
 `KQL` `MDE` `ADVANCED HUNTING`
 
