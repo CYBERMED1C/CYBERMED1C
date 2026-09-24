@@ -34,7 +34,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### MDE Threat Hunting
+### Daily IOCs
 
 [**Daily-Threat-Intel**](https://github.com/CYBERMED1C/Daily-Threat-Intel)
 
