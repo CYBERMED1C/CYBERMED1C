@@ -34,7 +34,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### Daily IOCs
+### Daily IOCs and Hunt Queries
 
 [**Daily-Threat-Intel**](https://github.com/CYBERMED1C/Daily-Threat-Intel)
 
