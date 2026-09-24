@@ -36,9 +36,9 @@
 
 ### MDE Threat Hunting
 
-[**MDE-Threat-Hunting-Queries**](https://github.com/CYBERMED1C/MDE-Threat-Hunting-Queries)
+[**Daily-Threat-Intel**](https://github.com/CYBERMED1C/Daily-Threat-Intel)
 
-Microsoft Defender XDR and MDE hunting queries for endpoint investigation, behavioral detection, and threat discovery.
+Daily IOCs from OSINT reports. Fully automated. Includes KQL and ESQL target threat hunting
 
 `KQL` `MDE` `ADVANCED HUNTING`
 
