@@ -40,7 +40,7 @@
 
 Daily IOCs from OSINT reports. Includes KQL and ESQL target threat hunting
 
-`KQL` `MDE` `ADVANCED HUNTING`
+`IOCs` `ADVANCED HUNTING`
 
 </td>
 
