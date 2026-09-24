@@ -46,13 +46,12 @@ Daily IOCs from OSINT reports. Includes KQL and ESQL target threat hunting
 
 <td width="50%" valign="top">
 
-### Elastic Threat Hunting
+### Exploited CVE Watch
 
-[**Elastic-Threat-Hunting**](https://github.com/CYBERMED1C/Elastic-Security-Engineering/tree/main/Elastic-Security-Threat-Hunting-Queries)
+[**Exploited CVE Watch**](https://github.com/CYBERMED1C/Exploited-CVE-Watch)
 
-Threat hunting and security engineering content built around Elastic Security.
-
-`ELASTIC` `ES|QL` `THREAT HUNTING`
+Focused tracking of vulnerabilities with confirmed exploitation, credible operational weaponization, or material changes in exploitation status. 
+`CVE`
 
 </td>
 </tr>
