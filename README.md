@@ -73,11 +73,12 @@ Detection logic and security rules designed for Elastic environments.
 
 ### Digital Forensics
 
-[**Digital_Forensics_Wordlists**](https://github.com/CYBERMED1C/Digital_Forensics_Wordlists)
+[**Bad-Hashes**](https://github.com/CYBERMED1C/Bad-Hashes)
 
-Investigation-focused resources for digital forensic analysis and artifact discovery.
+Daily Confirmed Bad Hashes For Your Block Lists
 
-`DFIR` `FORENSICS` `INVESTIGATION`
+
+`BOCKLIST` `IOCs` `HASHES`
 
 </td>
 </tr>
