@@ -71,7 +71,7 @@ Detection logic and security rules designed for Elastic environments.
 
 <td width="50%" valign="top">
 
-### Bad Hashes
+### Daily Bad Hashes
 
 [**Bad-Hashes**](https://github.com/CYBERMED1C/Bad-Hashes)
 
