@@ -28,6 +28,12 @@
 <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/MITRE_ATT%26CK-0D1117?style=flat-square">
 
+<br>
+
+<img src="https://img.shields.io/badge/AI_SECURITY-0D1117?style=flat-square">
+<img src="https://img.shields.io/badge/AI_AUTOMATION-0D1117?style=flat-square">
+<img src="https://img.shields.io/badge/AI_TOOLS-0D1117?style=flat-square">
+
 </div>
 
 <table>
