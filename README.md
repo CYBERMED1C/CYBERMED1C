@@ -4,8 +4,6 @@
 
 ### SECURITY OPERATIONS // THREAT HUNTING // AI SECURITY
 
-Building practical threat intelligence, detection content, and AI-security automation for defenders.
-
 <br>
 
 <a href="https://www.linkedin.com/in/robert-boettger">
