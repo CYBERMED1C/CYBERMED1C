@@ -59,13 +59,13 @@ Focused tracking of vulnerabilities with confirmed exploitation, credible operat
 <tr>
 <td width="50%" valign="top">
 
-### Elastic Detection Rules
+### AI-Tracker
 
-[**Elastic-Rules**](https://github.com/CYBERMED1C/Elastic-Security-Engineering/tree/main/Elastic-Security-Detection-Rules)
+[**AI-Tracker**](https://github.com/CYBERMED1C/AI-Tracker)
 
-Detection logic and security rules designed for Elastic environments.
+A dashboard for AI engineers and security teams. It prioritizes actionable AI ecosystem vulnerabilities and defensive developments, with frontier-model and U.S. executive orders, new research, significant releases and more.
 
-`DETECTION ENGINEERING` `ELASTIC`
+`AI` `AI Security` `Artificial Intelligence`
 
 </td>
 
