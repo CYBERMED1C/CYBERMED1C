@@ -43,16 +43,10 @@
 
 <div align="center">
 
-<a href="https://github.com/CYBERMED1C/Daily-Threat-Intel">
+<a href="https://github.com/CYBERMED1C/CYBERMED1C-Daily-Threat-IOCs">
   <img src="https://img.shields.io/badge/DAILY_IOCs-ACTIVE-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Daily IOCs active">
 </a>
-<a href="https://github.com/CYBERMED1C/Exploited-CVE-Watch">
-  <img src="https://img.shields.io/badge/CVE_WATCH-ACTIVE-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Exploited CVE Watch active">
-</a>
-<a href="https://github.com/CYBERMED1C/AI-Tracker">
-  <img src="https://img.shields.io/badge/AI_TRACKER-ACTIVE-58A6FF?style=for-the-badge&labelColor=0D1117" alt="AI Tracker active">
-</a>
-<a href="https://github.com/CYBERMED1C/Bad-Hashes">
+<a href="https://github.com/CYBERMED1C/Daily-Bad-Known-Hashes">
   <img src="https://img.shields.io/badge/BAD_HASHES-ACTIVE-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Daily Bad Hashes active">
 </a>
 
@@ -70,48 +64,24 @@
 <tr>
 <td width="50%" valign="top">
 
-### Daily IOCs and Hunt Queries
+### Daily Threat IOCs and Hunt Queries
 
-[**OPEN DAILY-THREAT-INTEL →**](https://github.com/CYBERMED1C/Daily-Threat-Intel)
+[**OPEN DAILY THREAT IOCS →**](https://github.com/CYBERMED1C/CYBERMED1C-Daily-Threat-IOCs)
 
-Daily OSINT-derived indicators and practical KQL and ES|QL hunting content for defenders.
+Daily public-source indicators with contextual reports, CSV and JSON exports, and practical Microsoft Defender KQL and Elastic ES|QL hunt queries.
 
 `IOCs` `KQL` `ES|QL` `ADVANCED HUNTING`
 
 </td>
 <td width="50%" valign="top">
 
-### Exploited CVE Watch
+### Daily Bad Known Hashes
 
-[**OPEN EXPLOITED-CVE-WATCH →**](https://github.com/CYBERMED1C/Exploited-CVE-Watch)
+[**OPEN DAILY-BAD-KNOWN-HASHES →**](https://github.com/CYBERMED1C/Daily-Bad-Known-Hashes)
 
-Focused tracking of vulnerabilities with confirmed exploitation, credible operational weaponization, or material changes in exploitation status.
+Verified malicious SHA-256 hashes with recent public malware-delivery evidence and independent behavioral analysis. Includes daily and weekly lists with supporting evidence.
 
-`CVE` `KNOWN EXPLOITED` `VULNERABILITY INTELLIGENCE`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### AI-Tracker
-
-[**OPEN AI-TRACKER →**](https://github.com/CYBERMED1C/AI-Tracker)
-
-Source-linked intelligence for AI engineers and security teams, covering actionable AI ecosystem vulnerabilities, defensive research, tools, major releases, and policy.
-
-`AI` `AI SECURITY` `AI AUTOMATION` `AI TOOLS`
-
-</td>
-<td width="50%" valign="top">
-
-### Daily Bad Hashes
-
-[**OPEN BAD-HASHES →**](https://github.com/CYBERMED1C/Bad-Hashes)
-
-Daily confirmed malicious hashes prepared for blocklists and defensive security workflows.
-
-`BLOCKLIST` `IOCs` `HASHES`
+`SHA-256` `IOCs` `HASHES` `MALWARE EVIDENCE`
 
 </td>
 </tr>
