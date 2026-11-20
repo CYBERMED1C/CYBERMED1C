@@ -11,15 +11,6 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/robert-boettger">
-  <img src="https://img.shields.io/badge/LINKEDIN-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://github.com/CYBERMED1C">
-  <img src="https://img.shields.io/badge/GITHUB-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<br><br>
-
 <img src="https://img.shields.io/badge/Microsoft_Defender_XDR-0D1117?style=flat-square&logo=microsoft&logoColor=58A6FF" alt="Microsoft Defender XDR">
 <img src="https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-0D1117?style=flat-square&logo=microsoft&logoColor=58A6FF" alt="Microsoft Defender for Endpoint">
 <img src="https://img.shields.io/badge/Elastic_Security-0D1117?style=flat-square&logo=elastic&logoColor=58A6FF" alt="Elastic Security">
@@ -118,8 +109,5 @@ Verified malicious SHA-256 hashes with recent public malware-delivery evidence a
 
 <img src="https://streak-stats.demolab.com?user=CYBERMED1C&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub streak activity">
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CYBERMED1C&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity">
 
 </div>
