@@ -109,5 +109,8 @@ Verified malicious SHA-256 hashes with recent public malware-delivery evidence a
 
 <img src="https://streak-stats.demolab.com?user=CYBERMED1C&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub streak activity">
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CYBERMED1C&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity">
 
 </div>
